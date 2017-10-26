@@ -1,6 +1,12 @@
 {
   "name": "caas.js",
-  "version": "2017.10.26.1",
+  "version": "2017.10.26.2",
+  "dependencies": {
+    "@types/node": "latest",
+    "commander": "latest",
+    "config": "latest",
+    "node-rest-client": "latest"
+  },
   "devDependencies": {
     "eslint-config-standard": "^10.2.1",
     "eslint-plugin-import": "^2.8.0",
